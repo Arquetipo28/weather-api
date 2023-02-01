@@ -1,4 +1,4 @@
-# Wheater-API
+# Weather-API
 
 This project was created as a practical test.
 
@@ -7,7 +7,7 @@ This project was created as a practical test.
 First of all is necessary to clone the repository into your local machine or wherever you want to run it.
 
 ```shell
-$ git clone git@github.com:Arquetipo28/wheater-api.git
+$ git clone git@github.com:Arquetipo28/weather-api.git
 ```
 
 after that we will run the bundler to install the required gems as well as the yarn packages.
@@ -25,7 +25,7 @@ $ rails s
 
 ## API
 
-This contains only one resource and it is not RESTful. It is called `wheater`.
+This contains only one resource and it is not RESTful. It is called `weather`.
 The API can be found at http://{host}:{port}/api/ where host is your local or remote host and port is the one you are running your application on.
 
 | Route         | Action        |
